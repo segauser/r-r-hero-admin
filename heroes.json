@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "First Hero",
+      "description": "First rating Hero!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Unknown Hero",
+      "description": "Hiding in the shadow",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Sea Hero",
+      "description": "Like Aquamen, but no DC",
+      "element": "water"
+    },
+    {
+      "id": "0196feaa-669d-4355-bb95-9f1f6703a0c5",
+      "name": "Donald",
+      "description": "d",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
